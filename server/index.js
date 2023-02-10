@@ -36,7 +36,7 @@ fetch("http://localhost:5000/companies_b2b_enbro/")
     });
 
 // Send an email:
-var client = new postmark.ServerClient("9131b7c0-c764-493c-bb65-7a3312183bef");
+var client = new postmark.ServerClient("");
 
 
 
